@@ -1,0 +1,437 @@
+Chaiwat App starts!
+Doc title: ตลาดหลักทรัพย์แห่งประเทศไทย - ข้อมูลรายบริษัท/หลักทรัพย์
+<table class="table table-hover table-info"> 
+ <thead> 
+  <tr class="bggrey1" align="center"> 
+   <th width="10%" height="35"><strong>วันที่</strong></th> 
+   <th width="10%"><strong>ราคา<br>เปิด</strong></th> 
+   <th width="10%"><strong>ราคา<br>สูงสุด</strong></th> 
+   <th width="10%"><strong>ราคา<br>ต่ำสุด</strong></th> 
+   <th width="10%"><strong>ราคา<br>ปิด</strong></th> 
+   <th width="10%"><strong>เปลี่ยนแปลง</strong></th> 
+   <th width="10%"><strong>%เปลี่ยนแปลง</strong></th> 
+   <th width="13%"><strong>ปริมาณรวม<br>(หุ้น)</strong></th> 
+   <th width="17%"><strong>มูลค่ารวม<br>('000 บาท)</strong></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr align="right"> 
+   <td align="center">23/06/2560</td> 
+   <td>13.00</td> 
+   <td>13.00</td> 
+   <td>12.80</td> 
+   <td>12.80</td> 
+   <td><font color="#FF0000"> -0.20</font></td> 
+   <td><font color="#FF0000"> -1.54</font></td> 
+   <td>3,696,000</td> 
+   <td>47,551.81</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">22/06/2560</td> 
+   <td>12.70</td> 
+   <td>13.00</td> 
+   <td>12.70</td> 
+   <td>13.00</td> 
+   <td><font color="#00AA00"> +0.30</font></td> 
+   <td><font color="#00AA00"> +2.36</font></td> 
+   <td>5,076,314</td> 
+   <td>65,378.96</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">21/06/2560</td> 
+   <td>12.70</td> 
+   <td>12.80</td> 
+   <td>12.60</td> 
+   <td>12.70</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>2,452,200</td> 
+   <td>31,142.42</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">20/06/2560</td> 
+   <td>12.80</td> 
+   <td>12.80</td> 
+   <td>12.60</td> 
+   <td>12.70</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>1,812,900</td> 
+   <td>23,032.13</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">19/06/2560</td> 
+   <td>12.60</td> 
+   <td>12.80</td> 
+   <td>12.60</td> 
+   <td>12.70</td> 
+   <td><font color="#00AA00"> +0.10</font></td> 
+   <td><font color="#00AA00"> +0.79</font></td> 
+   <td>2,440,100</td> 
+   <td>31,021.77</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">16/06/2560</td> 
+   <td>12.70</td> 
+   <td>12.80</td> 
+   <td>12.50</td> 
+   <td>12.60</td> 
+   <td><font color="#FF0000"> -0.10</font></td> 
+   <td><font color="#FF0000"> -0.79</font></td> 
+   <td>6,440,063</td> 
+   <td>81,295.92</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">15/06/2560</td> 
+   <td>12.90</td> 
+   <td>12.90</td> 
+   <td>12.60</td> 
+   <td>12.70</td> 
+   <td><font color="#FF0000"> -0.10</font></td> 
+   <td><font color="#FF0000"> -0.78</font></td> 
+   <td>14,035,500</td> 
+   <td>178,333.61</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">14/06/2560</td> 
+   <td>12.90</td> 
+   <td>13.00</td> 
+   <td>12.80</td> 
+   <td>12.80</td> 
+   <td><font color="#FF0000"> -0.20</font></td> 
+   <td><font color="#FF0000"> -1.54</font></td> 
+   <td>4,114,700</td> 
+   <td>52,872.71</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">13/06/2560</td> 
+   <td>13.00</td> 
+   <td>13.00</td> 
+   <td>12.90</td> 
+   <td>13.00</td> 
+   <td><font color="#00AA00"> +0.10</font></td> 
+   <td><font color="#00AA00"> +0.78</font></td> 
+   <td>2,929,100</td> 
+   <td>38,012.87</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">12/06/2560</td> 
+   <td>13.10</td> 
+   <td>13.10</td> 
+   <td>12.90</td> 
+   <td>12.90</td> 
+   <td><font color="#FF0000"> -0.20</font></td> 
+   <td><font color="#FF0000"> -1.53</font></td> 
+   <td>1,738,900</td> 
+   <td>22,557.44</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">09/06/2560</td> 
+   <td>13.10</td> 
+   <td>13.20</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>4,559,800</td> 
+   <td>59,555.72</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">08/06/2560</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td><font color="#00AA00"> +0.10</font></td> 
+   <td><font color="#00AA00"> +0.77</font></td> 
+   <td>2,876,700</td> 
+   <td>37,494.10</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">07/06/2560</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td>12.90</td> 
+   <td>13.00</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>1,564,500</td> 
+   <td>20,310.61</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">06/06/2560</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td>12.90</td> 
+   <td>13.00</td> 
+   <td><font color="#00AA00"> +0.10</font></td> 
+   <td><font color="#00AA00"> +0.78</font></td> 
+   <td>1,505,900</td> 
+   <td>19,520.63</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">05/06/2560</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td>12.90</td> 
+   <td>12.90</td> 
+   <td><font color="#FF0000"> -0.10</font></td> 
+   <td><font color="#FF0000"> -0.77</font></td> 
+   <td>1,436,700</td> 
+   <td>18,624.49</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">02/06/2560</td> 
+   <td>12.90</td> 
+   <td>13.20</td> 
+   <td>12.90</td> 
+   <td>13.00</td> 
+   <td><font color="#00AA00"> +0.10</font></td> 
+   <td><font color="#00AA00"> +0.78</font></td> 
+   <td>5,624,000</td> 
+   <td>73,392.22</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">01/06/2560</td> 
+   <td>12.90</td> 
+   <td>13.00</td> 
+   <td>12.80</td> 
+   <td>12.90</td> 
+   <td><font color="#FF0000"> -0.10</font></td> 
+   <td><font color="#FF0000"> -0.77</font></td> 
+   <td>2,730,501</td> 
+   <td>35,305.06</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">31/05/2560</td> 
+   <td>13.20</td> 
+   <td>13.20</td> 
+   <td>12.80</td> 
+   <td>13.00</td> 
+   <td><font color="#FF0000"> -0.10</font></td> 
+   <td><font color="#FF0000"> -0.76</font></td> 
+   <td>10,172,507</td> 
+   <td>131,843.29</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">30/05/2560</td> 
+   <td>13.10</td> 
+   <td>13.20</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td><font color="#FF0000"> -0.30</font></td> 
+   <td><font color="#FF0000"> -2.24</font></td> 
+   <td>10,869,700</td> 
+   <td>142,289.06</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">29/05/2560</td> 
+   <td>13.40</td> 
+   <td>13.50</td> 
+   <td>13.30</td> 
+   <td>13.40</td> 
+   <td><font color="#FF0000"> -0.10</font></td> 
+   <td><font color="#FF0000"> -0.74</font></td> 
+   <td>2,309,601</td> 
+   <td>30,991.14</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">26/05/2560</td> 
+   <td>13.50</td> 
+   <td>13.50</td> 
+   <td>13.40</td> 
+   <td>13.50</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>3,499,102</td> 
+   <td>46,907.54</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">25/05/2560</td> 
+   <td>13.40</td> 
+   <td>13.50</td> 
+   <td>13.30</td> 
+   <td>13.50</td> 
+   <td><font color="#00AA00"> +0.10</font></td> 
+   <td><font color="#00AA00"> +0.75</font></td> 
+   <td>2,773,602</td> 
+   <td>37,199.72</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">24/05/2560</td> 
+   <td>13.20</td> 
+   <td>13.50</td> 
+   <td>13.20</td> 
+   <td>13.40</td> 
+   <td><font color="#00AA00"> +0.20</font></td> 
+   <td><font color="#00AA00"> +1.52</font></td> 
+   <td>5,195,302</td> 
+   <td>69,522.16</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">23/05/2560</td> 
+   <td>13.20</td> 
+   <td>13.30</td> 
+   <td>13.20</td> 
+   <td>13.20</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>1,394,187</td> 
+   <td>18,455.18</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">22/05/2560</td> 
+   <td>13.40</td> 
+   <td>13.40</td> 
+   <td>13.20</td> 
+   <td>13.20</td> 
+   <td><font color="#FF0000"> -0.20</font></td> 
+   <td><font color="#FF0000"> -1.49</font></td> 
+   <td>1,490,100</td> 
+   <td>19,769.44</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">19/05/2560</td> 
+   <td>13.00</td> 
+   <td>13.40</td> 
+   <td>13.00</td> 
+   <td>13.40</td> 
+   <td><font color="#00AA00"> +0.40</font></td> 
+   <td><font color="#00AA00"> +3.08</font></td> 
+   <td>5,858,276</td> 
+   <td>77,851.88</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">18/05/2560</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td>13.00</td> 
+   <td>13.00</td> 
+   <td><font color="#FF0000"> -0.10</font></td> 
+   <td><font color="#FF0000"> -0.76</font></td> 
+   <td>2,523,600</td> 
+   <td>32,857.49</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">17/05/2560</td> 
+   <td>13.40</td> 
+   <td>13.40</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td><font color="#FF0000"> -0.20</font></td> 
+   <td><font color="#FF0000"> -1.50</font></td> 
+   <td>4,638,668</td> 
+   <td>60,838.33</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">16/05/2560</td> 
+   <td>13.30</td> 
+   <td>13.40</td> 
+   <td>13.20</td> 
+   <td>13.30</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>3,112,206</td> 
+   <td>41,379.61</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">15/05/2560</td> 
+   <td>13.10</td> 
+   <td>13.30</td> 
+   <td>13.00</td> 
+   <td>13.30</td> 
+   <td><font color="#00AA00"> +0.20</font></td> 
+   <td><font color="#00AA00"> +1.53</font></td> 
+   <td>1,871,400</td> 
+   <td>24,678.57</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">12/05/2560</td> 
+   <td>13.10</td> 
+   <td>13.20</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>2,670,614</td> 
+   <td>34,976.20</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">11/05/2560</td> 
+   <td>13.40</td> 
+   <td>13.40</td> 
+   <td>13.00</td> 
+   <td>13.10</td> 
+   <td><font color="#FF0000"> -0.30</font></td> 
+   <td><font color="#FF0000"> -2.24</font></td> 
+   <td>7,232,202</td> 
+   <td>94,904.12</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">09/05/2560</td> 
+   <td>13.50</td> 
+   <td>13.50</td> 
+   <td>13.30</td> 
+   <td>13.40</td> 
+   <td><font color="#FF0000"> -0.10</font></td> 
+   <td><font color="#FF0000"> -0.74</font></td> 
+   <td>2,206,900</td> 
+   <td>29,503.17</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">08/05/2560</td> 
+   <td>13.40</td> 
+   <td>13.50</td> 
+   <td>13.40</td> 
+   <td>13.50</td> 
+   <td><font color="#00AA00"> +0.30</font></td> 
+   <td><font color="#00AA00"> +2.27</font></td> 
+   <td>7,107,810</td> 
+   <td>95,839.52</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">05/05/2560</td> 
+   <td>13.60</td> 
+   <td>13.60</td> 
+   <td>13.20</td> 
+   <td>13.20</td> 
+   <td><font color="#FF0000"> -0.30</font></td> 
+   <td><font color="#FF0000"> -2.22</font></td> 
+   <td>6,903,107</td> 
+   <td>91,687.40</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">04/05/2560</td> 
+   <td>13.60</td> 
+   <td>13.70</td> 
+   <td>13.40</td> 
+   <td>13.50</td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td><font color="#000000"> 0.00</font></td> 
+   <td>6,750,213</td> 
+   <td>91,452.35</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">03/05/2560</td> 
+   <td>13.40</td> 
+   <td>13.70</td> 
+   <td>13.30</td> 
+   <td>13.50</td> 
+   <td><font color="#00AA00"> +0.20</font></td> 
+   <td><font color="#00AA00"> +1.50</font></td> 
+   <td>7,998,644</td> 
+   <td>108,346.62</td> 
+  </tr> 
+  <tr align="right"> 
+   <td align="center">02/05/2560</td> 
+   <td>13.60</td> 
+   <td>13.60</td> 
+   <td>13.30</td> 
+   <td>13.30</td> 
+   <td><font color="#FF0000"> -0.20</font></td> 
+   <td><font color="#FF0000"> -1.48</font></td> 
+   <td>2,480,300</td> 
+   <td>33,325.30</td> 
+  </tr> 
+ </tbody> 
+</table>
